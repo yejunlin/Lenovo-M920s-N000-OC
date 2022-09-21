@@ -1,0 +1,1 @@
+# Lenovo-M920s-N000-OC
