@@ -51,13 +51,22 @@ Unlock CFG using efi
 
 ## BIOS config
 Secure Boot -> Disable
+
 Display output:IGD 64M Max
+
 ATA: SATA AHCI
+
 Intel Virtualization -> Enable   （VT-x）
+
 VT-d -> Disable
+
 Intel Manageability -> Disable
+
 Intel SXG -> Disable
+
 Intel SIPP -> Disable
+
 CSM->Disable
+
 Boot->UEFI
 
