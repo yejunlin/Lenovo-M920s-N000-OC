@@ -1,7 +1,7 @@
 # Lenovo-M920s-N000-OC
 
 ## macOS version
-10.15.7 (I will update soon!)
+11.7 (Monteray may cause black screen due to unknown issue)
 
 ## OC version
 0.6.5 (I will update soon!)
