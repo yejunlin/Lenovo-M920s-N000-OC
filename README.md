@@ -1,10 +1,10 @@
 # Lenovo-M920s-N000-OC
 
 ## macOS version
-11.7 (Monteray may cause black screen due to unknown issue)
+12.6
 
 ## OC version
-0.6.5 (I will update soon!)
+0.8.4
 
 ## PC Configuration
 CPU: i7 8700
