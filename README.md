@@ -4,7 +4,7 @@
 12.6
 
 ## OC version
-0.8.4
+0.8.5
 
 ## PC Configuration
 CPU: i7 8700
