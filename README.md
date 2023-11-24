@@ -1,10 +1,10 @@
 # Lenovo-M920s-N000-OC
 
 ## macOS version
-12.6
+14.1.1 (23B81)
 
 ## OC version
-0.8.5
+0.9.6
 
 ## PC Configuration
 CPU: i7 8700
